@@ -9,30 +9,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5fa95427-9f0d-4822-991e-fa8eb5a4a42b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/javarush/november/moksvitina/quest/quest/HelloServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/javarush/november/moksvitina/quest/quest/entity/Answer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/javarush/november/moksvitina/quest/quest/entity/Entity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/javarush/november/moksvitina/quest/quest/entity/Game.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/javarush/november/moksvitina/quest/quest/entity/GameStatus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/javarush/november/moksvitina/quest/quest/entity/Quest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/javarush/november/moksvitina/quest/quest/entity/Question.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/javarush/november/moksvitina/quest/quest/entity/Role.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/javarush/november/moksvitina/quest/quest/entity/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/javarush/november/moksvitina/quest/quest/repository/Repository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
-    </list>
+    <list default="true" id="5fa95427-9f0d-4822-991e-fa8eb5a4a42b" name="Changes" comment="-entity created&#10;-repositories are in progress" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,8 +19,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Enum" />
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -186,11 +163,23 @@
       <option name="presentableId" value="Default" />
       <updated>1680160777365</updated>
       <workItem from="1680160778421" duration="735000" />
-      <workItem from="1680720493558" duration="3180000" />
+      <workItem from="1680720493558" duration="3823000" />
     </task>
+    <task id="LOCAL-00001" summary="-entity created&#10;-repositories are in progress">
+      <created>1680724443890</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1680724443890</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="-entity created&#10;-repositories are in progress" />
+    <option name="LAST_COMMIT_MESSAGE" value="-entity created&#10;-repositories are in progress" />
   </component>
 </project>
